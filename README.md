@@ -14,12 +14,7 @@ See the official forum [here](https://www.minecraftforum.net/forums/mapping-and-
 
 ## Installation
 
-1.  Download WarpDrive.jar from the [Curse website](http://minecraft.curseforge.com/projects/warpdrive) and put it in your mods folder.
-
-2.  To move your ship, you'll need either ComputerCraft or OpenComputer.
-
-3.  FE/µI, EU and RF power are supported (including but not limited to IC2, GregTech, AdvancedSolarPanel, BigReactors, EnderIO, Thermal Expansion, ImmersiveEngineering).
-    ICBM, MFFS, Advanced Repulsion System, Advanced Solar Panels and GraviSuite are supported.
+[WIP]
 
 ## Developing
 
