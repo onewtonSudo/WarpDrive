@@ -21,6 +21,6 @@ See the official forum [here](https://www.minecraftforum.net/forums/mapping-and-
 3.  FE/µI, EU and RF power are supported (including but not limited to IC2, GregTech, AdvancedSolarPanel, BigReactors, EnderIO, Thermal Expansion, ImmersiveEngineering).
     ICBM, MFFS, Advanced Repulsion System, Advanced Solar Panels and GraviSuite are supported.
 
-## Developping
+## Developing
 
 ReWrite Time!!!
