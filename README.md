@@ -23,12 +23,4 @@ See the official forum [here](https://www.minecraftforum.net/forums/mapping-and-
 
 ## Developping
 
-To setup you development environment:
-1.  From the WarpDrive mod folder, type:
-```
-./gradlew setupDecompWorkspace
-```
-2.  Start IdeaJ.
-3.  Import the gradle project.
-4.  Import the code formating & inspection rules from `IntelliJ IDEA-Code Style.xml` and `IntelliJ IDEA-Inspection.xml`.
-5.  Create run configuration using gradle, select the gradle project, enter the task `runClient` or `runServer`.
+ReWrite Time!!!
